@@ -1,2 +1,0 @@
-# Kingside
-chess game 
